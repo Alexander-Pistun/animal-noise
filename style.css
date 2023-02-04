@@ -1,0 +1,19 @@
+body{
+    color: rgb(0, 0, 0);
+    background: salmon;
+}
+.heading{
+    width: 80%;
+    font-size: 30px;
+    font-family: 'Caveat', cursive;
+}
+.name_of_objects{
+    color: black;
+    font-size: 20;
+    font-family: 'Damion', cursive;
+}
+#camera{
+    border: 2px dashed white;
+    width: 350px;
+    height: 300px;
+}
